@@ -1,1 +1,1 @@
-# WSU_Art
+# WSU_Arboretum
