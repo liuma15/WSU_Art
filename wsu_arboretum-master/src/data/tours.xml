@@ -1,0 +1,68 @@
+<ArrayOfThemeData xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/WSU.Locations.DTO">
+<ThemeData>
+<Description>Learn about various trees found on Winona State's campus.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>1</ThemeId>
+<ThemeName>Tree Tour</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Aster is a genus of flowering plants in the family Asteraceae. Coming from an Ancient Greek word, meaning "star", the name refers to the shape of the flower head. Containing many species and varieties, this family is popular as garden plants because of their attractive and colorful flowers. Native Americans used the leaves of some aster plants for brewing a tea for headaches and thought the smoke from burning aster plants was helpful in reviving a person who had fainted.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>2</ThemeId>
+<ThemeName>Aster Family</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>A legume is a plant in the family Fabaceae, or the fruit or seed of such a plant. Legumes are grown agriculturally, primarily for their food grain seed, for livestock forage and silage, and as soil-enhancing green manure. These plants are beneficial to native plant gardens because they help enhance the nitrogen fixation in soils by soil rhizobium (beneficial bacteria).</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>3</ThemeId>
+<ThemeName>Legume Family</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Grasses, or more technically graminoids, are monocotyledonous, usually herbaceous plants with narrow lance shaped leaves growing from the base. They have round hollow stems and branching roots. They are staples of the prairie ecosystem.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>4</ThemeId>
+<ThemeName>Grass Family</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Examples of plants that are fit to be eaten.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>5</ThemeId>
+<ThemeName>Edible</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Plants capable of or having properties that can be used to treat illness.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>6</ThemeId>
+<ThemeName>Medicinal</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Specific trees of Winona State University highlighted during the annual Shakespeare Festival in July.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>18</ThemeId>
+<ThemeName>Shakespeare Tree Tour</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Plants in this section have characteristics that provide nectar to attract bulltterflies. They may also attract pollinators like bees, flies, and other insects.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>19</ThemeId>
+<ThemeName>Butterflies</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Plants in this section are those that have the type of blossom or seed that attracts birds; such as bergamot, columbine and beardtongue attracting hummingbirds and coneflower attracting finches.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>20</ThemeId>
+<ThemeName>Birds</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>Plants in this section of the garden are those that can adapt to dry, rocky conditions.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>22</ThemeId>
+<ThemeName>Rock</ThemeName>
+</ThemeData>
+<ThemeData>
+<Description>In the Landscape Arboretum at Winona State University, we’re concerned about pollinators and wildlife. Here are some of the flowering and fruiting trees in our collection. The trees can be seen flowering at various times in the spring and fruiting in the summer and fall. There is also winter interest with persistent fruit on some of the trees.</Description>
+<ThemeColor i:nil="true"/>
+<ThemeId>24</ThemeId>
+<ThemeName>Flowering Trees of WSU</ThemeName>
+</ThemeData>
+</ArrayOfThemeData>
